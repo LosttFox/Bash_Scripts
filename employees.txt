@@ -1,7 +1,0 @@
-Alice Engineering 70000
-Bob Sales 60000
-Charlie Engineering 80000
-David HR 50000
-Eva Sales 72000
-Frank Engineering 85000
-Grace HR 48000
